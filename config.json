@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3050,
+    "database": "parsed",
+    "user": "postgres",
+    "password": "postgres"
+  }
+}
